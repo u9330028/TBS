@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 foods input datas orange
-=======
 input datas movies1
->>>>>>> movies
